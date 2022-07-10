@@ -8,7 +8,7 @@ time.sleep(10)
 pyautogui.click()
 
 # can be varied according to convininence
-distance = 250
+distance = 300
 
 while distance > 0:
     # right
